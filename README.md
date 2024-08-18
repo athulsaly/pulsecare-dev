@@ -7,7 +7,7 @@
 
 
   <h3 align="center">A HealthCare Management System</h3>
-  <a href="https://pulsecareapp.vercel.app" target="_blank"><h2>View Live Website</h2></a>
+  <a href="https://pulsecareapp.vercel.app" target="_blank">View Live Website</a>
 
 ## 📋 <a name="table">Table of Contents</a>
 
